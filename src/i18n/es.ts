@@ -1,0 +1,15 @@
+export default {
+	home: "Inicio",
+	about: "Quiénes somos",
+	courses: "Cursos",
+	levels: "Niveles",
+	contact: "Contáctanos",
+	downloads: "Material didáctico",
+	login: "Iniciar sesión",
+	register: "Registrarse",
+	levelA1: "Nivel A1 (Principiante)",
+	levelA2: "Nivel A2 (Elemental)",
+	levelB1: "Nivel B1 (Intermedio)",
+	levelB2: "Nivel B2 (Intermedio alto)",
+	levelC1: "Nivel C1 (Avanzado)",
+};
